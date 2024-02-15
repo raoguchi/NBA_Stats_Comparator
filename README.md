@@ -1,2 +1,2 @@
-# NBA_Stats_Comparator
- Determining If Players Have Improved or Regressed
+# AR15SUCKS
+Does ___ Suck??
